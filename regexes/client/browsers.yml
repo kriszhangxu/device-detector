@@ -10,7 +10,7 @@
   name: 'Bidu Browser'
   version: '$1'
 
-#SailfishBrowser
+#LBBrowser
 - regex: 'LBBROWSER(?:/(\d+[\.\d]+))?'
   name: 'LB Browser'
   version: '$1'
