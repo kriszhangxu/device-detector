@@ -5,6 +5,16 @@
 # @license http://www.gnu.org/licenses/gpl-3.0.html GPL v3 or later
 ###############
 
+#BIDUBrowser
+- regex: 'BIDUBrowser(?:/(\d+[\.\d]+))?'
+  name: 'Bidu Browser'
+  version: '$1'
+
+#SailfishBrowser
+- regex: 'LBBROWSER(?:/(\d+[\.\d]+))?'
+  name: 'LB Browser'
+  version: '$1'
+  
 #SailfishBrowser
 - regex: 'SailfishBrowser(?:/(\d+[\.\d]+))?'
   name: 'Sailfish Browser'
