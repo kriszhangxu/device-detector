@@ -147,7 +147,7 @@ class Browser extends ClientParserAbstract
         'Opera'              => array('OP', 'OM', 'OI', 'ON'),
         'Safari'             => array('SF', 'MF'),
         'Sailfish Browser'   => array('SA'),
-        'Bidu Browser'       => array('BD'),
+        'Baidu Browser'      => array('BD'),
         'LB Browser'         => array('LB'),
         'Sogou Browser'      => array('SG')
     );
